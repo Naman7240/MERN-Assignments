@@ -1,4 +1,4 @@
-# MERN-Assignments
+# MERN Stack Industrial Course 
 
 MERN Assignments (HTML and CSS Tasks)
 
