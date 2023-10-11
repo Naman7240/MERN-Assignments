@@ -1,0 +1,86 @@
+#table1{
+    width: 50%;
+    border: 1px solid #070505;   /*Single solid black border*/
+    border-radius: 10px;          /*Responsible for curving of BORDERS*/
+    background-color: #57dfe8;
+}
+
+
+#table2{
+    width: 50%;
+    border: 1px solid #070505;
+    border-radius: 5px;
+    background-color: #57dfe8;
+}
+
+
+#table3{
+    width: 50%;
+    border: 1px solid #070505;
+    border-radius: 3px;
+    background-color: #57dfe8;
+}
+
+
+#table4{
+    border: 1px solid #070505;
+    background-color: #57dfe8;
+    overflow: hidden;         /*It hides the leftover part of the table that remains OUTSIDE THE BORDER OF TABLE.*/
+    border-collapse: separate;
+    border-radius: 100px;
+    width: 450px;
+    height: 250px;
+
+}
+
+
+#table5{
+    border: 1px solid #070505;
+    background-color: #57dfe8;
+    overflow: hidden;
+    border-collapse: separate;
+    border-radius:100% ;
+    width: 450px;
+    height: 250px;
+
+}
+
+
+
+#table6{
+    width: 50%;
+    border: 1px solid #070505;
+    border-radius: 10px;
+    background-color: #57dfe8;
+    overflow: hidden;
+    border-top-right-radius: 30px !important;
+    border-bottom-left-radius: 30px !important;
+}
+
+
+#table7{
+    width: 50%;
+    border: 1px solid #070505;
+    border-radius: 10px;
+    background-color: #57dfe8;
+    overflow: hidden;
+    border-bottom-right-radius: 30px !important;
+    border-top-left-radius: 30px !important;
+}
+
+
+#table8{
+    width: 50%;
+    border: 1px solid #070505;
+    border-radius: 10px;
+    background-color: #57dfe8;
+}
+
+
+
+
+th,td{
+    border: 1px solid #070505;
+    border-radius: 10px;
+}
+
